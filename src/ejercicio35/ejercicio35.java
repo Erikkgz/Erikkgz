@@ -26,9 +26,9 @@ public class ejercicio35 {
 		
 	   
 		
-		System.out.println("nota maxima es"+nota_max);
+		System.out.println("nota maxima es:"+nota_max);
 		
-		System.out.println("nota minima es"+nota_min);
+		System.out.println("nota minima es:"+nota_min);
 		
 		
 		

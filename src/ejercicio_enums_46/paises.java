@@ -1,0 +1,6 @@
+package ejercicio_enums_46;
+
+public enum paises {
+
+	ARGENTINA, BOLIVIA, BRASIL, CHILE, COLOMBIA, ECUADOR, GUYANA, PARAGUAY, PERÚ, SURINAM, URUGUAY, VENEZUELA;
+}

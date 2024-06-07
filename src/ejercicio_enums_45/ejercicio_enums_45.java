@@ -26,7 +26,7 @@ public class ejercicio_enums_45 {
 		lista.add("Surinam");
 		lista.add("Uruguay");
 		lista.add("Venezuela");
-
+   
 		boolean encontrado = false;
 		System.out.println("ingresar un pais");
 		Sudamericano = guardar.next();

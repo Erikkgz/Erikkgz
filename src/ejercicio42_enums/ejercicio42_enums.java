@@ -15,6 +15,7 @@ public class ejercicio42_enums {
 		String[] nombre = { "Enrique", "Liliana", "Lucas", "Juan", "Fiorella", "Ariel", "Daiana" };
 		int[] numSocio = { 1011, 2367, 8748, 9121, 817, 6423, 2034 };
 
+		//INICIO BUSQUEDA
 		System.out.println("Para encontrar a un individuo, ingresar número de socio: ");
 		numeroIngresado = guardar.nextInt();
 
@@ -31,7 +32,7 @@ public class ejercicio42_enums {
 			System.out.println("No se encontro el numero de socio ingresado.");
 		}
 		
-
+		//FINAL BUSQUEDA
 		
 		
 		

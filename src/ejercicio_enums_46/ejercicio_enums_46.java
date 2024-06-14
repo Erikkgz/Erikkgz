@@ -12,10 +12,8 @@ public class ejercicio_enums_46 {
 
 		String IngresaPais;
 		
-		
 		System.out.println("ingrese cualquier pais");
 		IngresaPais = guardar.next().toUpperCase();
-		
 		
 		paisIngresado = paises.valueOf(IngresaPais);
 		
@@ -39,12 +37,6 @@ public class ejercicio_enums_46 {
 			System.out.println("estupidito esto es un pais");
 			
 		}
-	
-		
-		
-		
-		
-		
 		
 	}
 }

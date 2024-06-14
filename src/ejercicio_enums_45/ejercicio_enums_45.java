@@ -28,7 +28,7 @@ public class ejercicio_enums_45 {
 		lista.add("Venezuela");
    
 		boolean encontrado = false;
-		System.out.println("ingresar un pais");
+		System.err.println("ingresar un pais");
 		Sudamericano = guardar.next();
 
 		for (int i = 0; i < lista.size(); i++) {
@@ -52,18 +52,3 @@ public class ejercicio_enums_45 {
 	}
 }
 
-//		
-//		
-//		
-//		
-//		String[] nombre = {"Argentina", "Bolivia", "Brasil", "Chile", "Colombia", "Ecuador", "Guyana", "Paraguay", "Perú", "Surinam", "Uruguay", "Venezuela"};
-//		
-//		System.out.println("ingrese un pais sudamericano:");
-//		Sudamericano = guardar.nextInt();
-//		
-//	if (nombre[] = Sudamericano) {
-//		
-//	}
-//		
-//		
-//		

@@ -19,6 +19,7 @@ public class ejercicio_enums_48 {
 	for (int i = 0; i < dniNum; i++) {
 		System.out.println((i + 1)+"digite cualquier dni");
 		arreglo = guardar.nextInt();
+		
 	}
 		
 		

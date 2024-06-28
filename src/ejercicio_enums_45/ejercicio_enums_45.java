@@ -15,7 +15,7 @@ public class ejercicio_enums_45 {
 		List<String> lista = new ArrayList<>();
 
 		lista.add("Argentina");
-		lista.add("Boliva");
+		lista.add("Bolivia");
 		lista.add("Brasil");
 		lista.add("Chile");
 		lista.add("Colombia");
